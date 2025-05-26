@@ -1,10 +1,12 @@
 # TSP-IF2211
-Program to solve Travelling Salesman problem with Ruby
+### overview
+This Ruby program is designed to solve the Traveling Salesperson Problem (TSP) by finding the shortest possible route that visits a given set of cities exactly once and returns to the starting city. It takes an adjacency matrix, representing the distances or costs between each pair of cities, as input. The core of the program utilizes a dynamic programming approach
 
 ### How to Run
 ``` bash
 ruby tsp_solver.rb
 ```
+
 ### Input 
 ![image](https://github.com/user-attachments/assets/c19de8ef-7132-4f07-a40a-a5bb57202e78)
 
