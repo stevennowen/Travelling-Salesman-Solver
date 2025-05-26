@@ -14,4 +14,10 @@ ruby tsp_solver.rb
 ### Output
 ![image](https://github.com/user-attachments/assets/5da8644d-5ce1-4087-ad22-e26053c331f7)
 
+## Author
+| Name               | Student ID | Institution                |
+|--------------------|------------|----------------------------|
+| Steven Owen Liauw  | 13523103   | Institut Teknologi Bandung |
 
+## License
+This project is part of the Algorithm Strategies course assignment (IF2211).
