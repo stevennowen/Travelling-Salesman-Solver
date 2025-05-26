@@ -4,6 +4,7 @@ This Ruby program is designed to solve the Traveling Salesman Problem (TSP) by f
 
 ### How to Run
 ``` bash
+cd Src
 ruby tsp_solver.rb
 ```
 
